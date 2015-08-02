@@ -1,0 +1,7 @@
+This is a dashboard immplementation. Appreciating:
+
+1- Clocks 
+2- Google calender 
+3- Weather forecast.
+
+Have used java script, html5, css, jQuery, plugins as tool for implementation. 
